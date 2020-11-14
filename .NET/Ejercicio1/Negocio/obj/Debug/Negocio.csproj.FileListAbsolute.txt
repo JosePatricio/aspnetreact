@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Ejercicio1\Negocio\bin\Debug\Negocio.exe.config
+C:\Users\LENOVO\source\repos\Ejercicio1\Negocio\bin\Debug\Negocio.exe
+C:\Users\LENOVO\source\repos\Ejercicio1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\LENOVO\source\repos\Ejercicio1\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\source\repos\Ejercicio1\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\source\repos\Ejercicio1\Negocio\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\LENOVO\source\repos\Ejercicio1\Negocio\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\LENOVO\source\repos\Ejercicio1\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\source\repos\Ejercicio1\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\source\repos\Ejercicio1\Negocio\bin\Debug\System.Linq.Dynamic.Core.pdb
+C:\Users\LENOVO\source\repos\Ejercicio1\Negocio\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\LENOVO\source\repos\Ejercicio1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Ejercicio1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Ejercicio1\Negocio\obj\Debug\Negocio.exe
+C:\Users\LENOVO\source\repos\Ejercicio1\Negocio\obj\Debug\Negocio.pdb
+C:\Users\LENOVO\source\repos\Ejercicio1\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
